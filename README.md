@@ -15,7 +15,7 @@
   
 
  - 🔭 Atualmente estou realizando uma transição de carreira para a área de DevOps
- - 🔭 Participante do progrma desenvolve do Grupo O boticário.
+ - 🔭 Participante do programa desenvolve do Grupo O boticário.
  - 🌱 Estudante de tecnologia 
  
 
